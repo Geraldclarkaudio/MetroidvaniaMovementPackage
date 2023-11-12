@@ -1,0 +1,16 @@
+{
+    "name": "EvilElephantGames.MetroidvaniaMovement.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9173d683f9059cd4b9884afdaf1e2701"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
