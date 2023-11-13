@@ -13,8 +13,6 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField]
     private float _leftRightMoveSpeed;
     [SerializeField]
-    private float _upDownMoveSpeed;
-    [SerializeField]
     private float _gravity;
     [SerializeField]
     private bool _canMove = true;
