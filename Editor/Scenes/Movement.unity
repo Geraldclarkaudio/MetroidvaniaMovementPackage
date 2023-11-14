@@ -651,7 +651,7 @@ Transform:
   m_GameObject: {fileID: 699085780}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 12.57, z: -17.44}
+  m_LocalPosition: {x: 0, y: 12.28, z: -17.31}
   m_LocalScale: {x: 1, y: 1, z: 6.9681}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1415,6 +1415,18 @@ PrefabInstance:
     - target: {fileID: 8256874146300751707, guid: df96969e35362ae4eb5ac7d134bc6b5d, type: 3}
       propertyPath: m_Name
       value: Climbable
+      objectReference: {fileID: 0}
+    - target: {fileID: 9005644488807927119, guid: df96969e35362ae4eb5ac7d134bc6b5d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 9005644488807927119, guid: df96969e35362ae4eb5ac7d134bc6b5d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5412
+      objectReference: {fileID: 0}
+    - target: {fileID: 9005644488807927119, guid: df96969e35362ae4eb5ac7d134bc6b5d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.697
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
